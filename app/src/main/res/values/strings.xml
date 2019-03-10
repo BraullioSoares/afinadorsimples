@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Afinador Simples</string>
+    <string name="button_E">MI</string>
+    <string name="button_B">SI</string>
+    <string name="button_G">SOL</string>
+    <string name="button_D">RE</string>
+    <string name="button_A">LA</string>
+    <string name="button_EM">MI</string>
+    <string name="btnGoPlay">Iniciar</string>
+    <string name="txtViewOuvidoAbs">Teste seu ouvido absoluto</string>
+    <string name="swtRepeat">Repetir Som</string>
+    <string name="txtNameLabel">Nome</string>
+    <string name="txtScoreLabel">Pontos</string>
+    <string name="emptyTxt"/>
+    <string name="btnPlaySound">Tocar</string>
+    <string name="radioButtonMIGrave">Mi Grave</string>
+    <string name="DescricaoJogo">Clique no botão para ouvir o som e selecione a opção correta</string>
+    <string name="labelPontos">Pontuação</string>
+    <string name="tempoDeterminado">Tempo</string>
+    <string name="addPontos">Adicionar</string>
+    <string name="cancelJogo">Cancelar</string>
+    <string name="selectNote">Selecione a Nota correspondente ao som</string>
+    <string name="verifyAnswer">Verificar</string>
+</resources>
